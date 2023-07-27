@@ -1,0 +1,481 @@
+.header{
+	background-color:rgb(19,25,33);
+	height:50px;
+	width:1348px;
+	margin-left:-15px;
+}
+.headerlogo{
+	height:40px;
+	width:95px;
+	margin-top:5px;
+}
+.logo:hover{
+	border:1px solid white;
+	width:100px;
+}
+.fa-map-marker{
+	margin-top:10px;
+}
+.hello{
+	color:white;
+	margin:-33px 0px 0px 25px;
+}
+.add:hover{
+	border:1px solid white;
+	width:180px;
+}
+.select{
+	height:40px;
+	width:80px;
+	margin-top:5px;
+	margin-left:15px;
+
+}
+.searchbox{
+	height:40px;
+	margin-top:5px;
+	width:410px;
+	margin-right:50px;
+}
+.fa-search{
+	height:40px;
+	width:40px;
+	margin-top:5px;
+	background-color:orange;
+	margin-left:30px;
+}
+.flag{
+	height:15px;
+	width:20px;
+	margin-top:18px;
+	margin-left:-12px;
+}
+.lang{
+	margin:-10px 0px 0px 10px;
+	color:white;
+	background-color:rgb(19,25,33);
+	margin-top:-19px;
+}
+
+.acc{
+	color:white;
+	width:150px;
+	height:50px;
+	margin-left:-20px;
+	
+}
+.return{
+	color:white;
+	margin-left:15px;
+}
+.fa-shopping-cart{
+	color:white;
+	margin-left:5px;
+	margin-top:5px;
+}
+.cart{
+	color:white;
+	margin-left:40px;
+	margin-top:-20px;
+}
+/*** navbar***/
+.navbar{
+	height:30px;
+	width:1348px;
+	background-color:#232f2f;
+	margin-top:-4px;
+	margin-left:0px;
+}
+.navfabar{
+	margin-left:-60px;
+	margin-top:15px;
+}
+
+.navlist li{
+	display:inline;
+	margin-left:20px;
+}
+.navlist{
+	margin-left:-70px;
+	margin-top:-20px;
+}
+.url{
+	height:35px;
+	width:35px;
+	margin-left:825px;
+	margin-top:-40px;
+}
+.app{
+	margin-left:890px;
+	margin-top:-30px;
+	font-size:20%;
+}
+
+/*** slider ***/
+img{
+	width:100%;
+	height:500px;
+	margin-left:0px;
+	margin-top:-20px;
+}
+.fa-chevron-left{
+	
+	border:none;
+	background:#17f;
+	font-size:30px;
+	color:black;
+	position:absolute;
+	margin-top:-360px;
+	cursor:pointer;
+	background-color:transparent;
+	
+}
+.fa-chevron-right{
+	
+ 	border:none;
+	background:#17f;
+	font-size:30px;
+	color:black;
+	position:absolute;
+	margin-top:-360px;
+	cursor:pointer;
+	background-color:transparent;
+	margin-left:1320px;
+}
+ 
+/*** container***/
+
+.pharmacyimg{
+	width:260px;
+	height:290px;
+	margin-left:20px;
+	margin-top:13px;
+	
+}
+
+#wall{
+	height:130px;
+	width:130px;
+
+}
+#kitchen{
+	height:130px;
+	width:130px;
+	margin-left:5px;
+}
+#light{
+	height:130px;
+	width:130px;
+}
+#chop{
+	height:130px;
+	width:130px;
+	margin-left:15px;
+}
+.one{
+	height:410px;
+	width:310px;
+	background-color:white;
+
+}
+.two{
+	height:410px;
+	width:310px;
+
+	background-color:white;
+}
+.three{
+	height:410px;
+	width:310px;
+	background-color:white;
+}
+.four{
+	height:150px;
+	width:310px;
+	background-color:white;
+}
+.heading{
+	font-size:20px;
+	margin-left:18px;
+	font-weight:bold;
+}
+.head{
+	font-size:22px;
+	margin-left:18px;
+	font-weight:bold;
+}
+.deepa{
+	margin-top:-250px;
+}
+.sign{
+	height:49px;
+	width:250px;
+	margin-left:40px;
+    margin-top:-10px;
+	background-color:rgb(255,216,20);
+	border-radius:10px;
+	border:none;
+}
+.laptop{
+	height:233px;
+	width:310px;
+	margin-top:45px;
+}
+ 
+#a{
+	height:410px;
+	width:310px;
+	background-color:white;
+	margin-left:12px;
+}
+#b{
+	height:410px;
+	width:310px;
+	background-color:white;
+	margin-left:20px;
+	
+}
+#c{
+	height:410px;
+	width:310px;
+	background-color:white;
+	margin-left:20px;
+}
+#d{
+	height:410px;
+	width:310px;
+	background-color:white;
+	margin-left:20px;
+}
+#try{
+	width:250px;
+	height:190px;
+}
+#women{
+	width:94px;
+	height:94px;
+	margin-left:-10px;
+	margin-top:5px;
+}
+#book{
+	height:220px;
+	width:280px
+	
+}
+#booksubmit{
+	background-color:rgb(204,12,57);
+	border:none;
+	font-weight:bold;
+	color:white;
+}
+#story{
+	height:325px;
+	width:280px;
+}
+#towel{
+	width:250px;
+	height:155px;
+}
+.prem{
+	height:300px;
+	width:1308px;
+	background-color:white;
+	margin-left:20px;
+	margin-top:20px;
+}
+ 
+#newphoto{
+	height:160px;
+	width:120px;
+	margin-top:-30px;
+	margin-left:19px;
+}
+#redsub{
+	background-color:rgb(204,12,57);
+	border:none;
+	font-weight:bold;
+	color:white;
+	margin-left:15px;
+}
+#deal{
+	font-weight:bold;
+	color:rgb(204,12,57);
+	margin-top:5px;
+	margin-left:15px;
+}
+#mela{
+	margin-top:-9px;
+	margin-left:15px;
+}
+#dec{
+	height:230px;
+	width:250px;
+	margin-top:4px;
+}
+#item{
+	font-weight:bold;
+	font-size:23px;
+	margin-top:10px;
+}
+ 
+#sale{
+	height:270px;
+	width:280px;
+	margin-top:20px;
+}
+#ooh{
+	height:130px;
+	width:130px;
+}
+#de{
+	height:180px;
+	width:209px;
+	margin-top:10px;
+}
+.mari{
+	height:250px;
+	width:1308px;
+	background-color:white;
+	margin-left:20px;
+	margin-top:20px;
+}
+.sethu{
+	background-color:white;
+	height:300px;
+	width:1308px;
+	margin-left:20px;
+	margin-top:20px;
+}
+#vid{
+	margin-top:4px;
+	height:230px;
+}
+#han{
+	height:180px;
+	
+}
+#adi{
+	margin-top:-18px;
+	margin-left:60px;
+	text-decoration:line-through;
+}
+.onepic{
+	background-color:white;
+	height:250px;
+	width:900px;
+	margin-left:220px;
+	margin-top:20px;
+}
+#sunglass{
+	height:200px;
+	width:250px;
+	margin-top:10px;
+}
+#star{
+	height:30px;
+	width:100px;
+	margin-left:80px;
+}
+#brand{
+	height:300px;
+}
+#mini{
+	height:280px;
+}
+.last{
+	height:700px;
+	background-color:white;
+	margin-top:20px;
+	width:1331px;
+	margin-left:3px;
+}
+#fan{
+	height:150px;
+}
+#blue{
+	color:dodgerblue;
+}
+#sta{
+	height:25px;
+	width:60px;
+	margin-left:-4px;
+	margin-top:1px;
+}
+#poche{
+	background-color:maroon;
+	color:white;
+	border:maroon;
+}
+#un{
+	text-decoration:line-through;
+	margin-top:-15px;
+}
+#cen{
+	height:30px;
+	width:240px;
+	background-color:rgb(255,204,75);
+	color:black;
+	font-weight:bold;
+	border:orange;
+	border-radius:10px;
+}
+.halast{
+	background-color:rgb(35,71,90);
+	height:40px;
+
+	
+}
+.wow{
+	background-color:rgb(35,47,62);
+	height:350px;
+	
+}
+ .mudikapore{
+	height:150px;
+	background-color:rgb(35,47,62);
+ }
+ #lastsub{
+	background-color:rgb(35,47,62);
+	border-color:none;
+	color:white;
+	margin-top:-10px;
+ }
+ .mudichathu{
+	 background-color:rgb(19,26,34);
+	 height:170px;
+ }
+ #cool{
+	color:rgb(197,207,216);
+	font-size:14px;
+ }
+ #col{
+	 color:rgb(146,143,145);
+	 font-size:12px;
+ }
+ .hehehe li{
+	display:inline;
+	padding:10px;
+ }
+ #colss{
+	 color:white;
+	 font-size:12px;
+ }
+#hellooo{
+	color:white;
+
+}
+ .win{
+	 background-color:rgb(19,26,34);
+	 height:60px;
+ }
+ #blue:hover{
+	color:red;
+ }
+ #blue:visible{
+	 color:blue;
+ }
+ .food{
+	height:40px;
+	width:95px;
+	margin-top:none;
+ }
